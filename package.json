@@ -1,0 +1,23 @@
+{
+  "name": "primer-booleans-and-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NGEN-Room/Primer-Booleans-and-Numbers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NGEN-Room/Primer-Booleans-and-Numbers/issues"
+  },
+  "homepage": "https://github.com/NGEN-Room/Primer-Booleans-and-Numbers#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
