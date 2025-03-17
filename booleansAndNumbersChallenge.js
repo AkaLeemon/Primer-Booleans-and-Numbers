@@ -9,4 +9,5 @@
 // 👇 Write your code below:
 
 console.log("Hello World")
-console.loglog("Type 'node booleansAndNumbersChallenge.js' in the terminal to read your console logs")
+console.log("Type 'node booleansAndNumbersChallenge.js' in the terminal to read your console logs")
+console.log("To run test run 'npm run test' in your terminal")
